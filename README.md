@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Findings/Insights](#findings/insights)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
@@ -45,7 +45,7 @@ I explored survey data to answer the following questions
 -	Which job roles had the highest respondents
 
 
-### Findings/Insights 
+### Findings
 My analysis results are summarized as follows
 
 1. Analytics Consultant, Manager and Director are the job roles with the joint highest average salary among respondents, followed by Analytics Manager
